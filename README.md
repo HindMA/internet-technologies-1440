@@ -1,2 +1,2 @@
 # internet-technologies-1440
-all lab will be here
+all internet-technologies lab will be here
