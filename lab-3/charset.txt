@@ -1,0 +1,30 @@
+<!-- lab 3-A -->
+<!DOCTYPE html>
+<html>
+<head>
+<!-- The character set (encoding) -->
+<!-- <meta charset="Windows-1252" -->
+<!-- The ANSI charset only recognizes 256 differnt characters & therfore doesn't support Arabic characters, 
+To correct the problem, use the UTF-8 charset instead, UTF-8 support almost all characters. -->
+
+ <meta charset="utf-8"
+<title> HTML Introduction </title>
+</head>
+
+<body>
+<h1> What is HTML? </h1>
+<h2> HTML is the standard markup language for creating Web pages. </h2>
+<h3> ÇáÓáÇã Úáíßã æÑÍãÉ Çááå æÈÑßÇÊå </h3>
+<p>
+<ul>
+<li> HTML stands for Hyper Text Markup Language</li>
+<li> HTML describes the structure of Web pages using markup</li>
+<li> HTML elements are the building blocks of HTML pages</li>
+<li> HTML elements are represented by tags</li>
+<li> HTML tags label pieces of content such as "heading", "paragraph", "table", and so on</li>
+<li> Browsers do not display the HTML tags, but use them to render the content of the page</li>
+</u>
+</p>
+
+</body>
+</html>
