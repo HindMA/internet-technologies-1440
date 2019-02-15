@@ -1,29 +1,54 @@
 <!-- lab-2 --> 
-
-<!DOCTYPE html> <!-- 4 -->
-<html> <!-- 5 -->
-<head> <!-- 6 -->
-<title> Javascript </title> <!-- 6 -->
+<!DOCTYPE html> <!-- 4- add the DOCTYPE tag --> 
+<html> <!-- 5- start by typing the html start and end tag -->
+<head> <!-- 6- add a head section and a body section, addd a title section -->
+<title> Javascript </title> <!-- 6- add a head section and a body section, addd a title section -->
 </head>
-<body> <!-- 6 -->
-<h1> Javascripts </h1> <!-- 8 --> 
-<h1> Introduction </h1>
-<p> JavaScript was initially created to ìmake web pages aliveî. The programs in this language are called scripts. They can be written right in a web pageís HTML and executed automatically as the page loads. Scripts are provided and executed as plain text. They donít need special preparation or compilation to run. In this aspect, JavaScript is very different from another language called Java. 
+<body> <!-- 6- add a head section and a body section, addd a title section -->
+
+<h1> Javascripts </h1> <!-- 8- add a heading h1 for the page --> 
+
+<img src="HTML-Effects.jpg" alt="HTML" align="right" style="width:200px;height:100px;"> <!-- 13- add image, use width attribute / 14- add alignment to your img align=right -->
+
+<h2> Introduction </h2> <!-- 9- add one or more paragraph -->
+<p> JavaScript was initially created to ‚Äúmake web pages alive‚Äù. The programs in this language are called scripts. They can be written right in a web page‚Äôs HTML and executed automatically as the page loads. Scripts are provided and executed as plain text. They don‚Äôt need special preparation or compilation to run. In this aspect, JavaScript is very different from another language called Java. 
 </p>
 
-<h2> Features </h2>
-<ul>
-  <li>1. Universal support</li>
-  <li>2. Imprative and structured</li>
-  <li>3. Dynamic typing</li>
-  <li>4. Object-oriented or prototype-based</li>
+<h2> Features </h2> 
+<ol> <!-- order list --> <!-- 10- add a list under subheading -->
+  <li> Universal support</li>
+  <li> Imprative and structured</li>
+  <li> Dynamic typing</li>
+  <li> Object-oriented or prototype-based</li>
+</ol>
+
+<h2> Development tools </h2>
+<ul> <!-- unorder list --> <!-- 11- add hyperlinks -->
+  <li> <a href="http://brackets.io/">Brackets.io</a> </li>
+  <li> <a href="https://notepad-plus-plus.org/">Notpad++</a> </li>
+  <li> <a href="https://www.sublimetext.com/">Sublime Text</a> </li>
 </ul>
 
-<h3> Development tools </h3>
-<ul>
-<li> <a href="http://brackets.io/">Brackets.io</a> </li>
-<li> <a href="https://notepad-plus-plus.org/">Notpad++</a> </li>
-<li> <a href="https://www.sublimetext.com/">Sublime Text</a> </li>
-
+<h3> Version history </h3>
+<table border="1" style="width:20%"> <!-- 15- add table , border attribute -->
+  <tr>
+    <th>Version</th>
+    <th>Release data</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>March 199</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>August 1996</td>
+  </tr>
+  <tr>
+    <td>1.2</td>
+    <td>June 1997</td>
+  </tr>
+</table>
+<hr> <!-- 12- add a footer section by using hr tag -->
+<h6> This page was created by Hind Muhammad Adnan - 436040816 </h6>
 </body>
 </html>
