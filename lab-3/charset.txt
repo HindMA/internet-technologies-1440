@@ -14,7 +14,7 @@ To correct the problem, use the UTF-8 charset instead, UTF-8 support almost all 
 <body>
 <h1> What is HTML? </h1>
 <h2> HTML is the standard markup language for creating Web pages. </h2>
-<h3> ÇáÓáÇã Úáíßã æÑÍãÉ Çááå æÈÑßÇÊå </h3>
+<h3>Ø§Ù„Ø³Ù„Ø§Ù… Ø¹Ù„ÙŠÙƒÙ… ÙˆØ±Ø­Ù…Ø© Ø§Ù„Ù„Ù‡ ÙˆØ¨Ø±ÙƒØ§ØªÙ‡</h3>
 <p>
 <ul>
 <li> HTML stands for Hyper Text Markup Language</li>
