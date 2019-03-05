@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1256">
+<title>pattern</title>
+</head>
+<body>
+
+<div>
+    <h1>simple pattern</h1>
+    <p>To help you while you work</p>
+  </div>
+
+<div>
+    <div>
+      <div>
+        <h3>flower</h3>
+        <img src="flower1.jpg" height="400px width=" 400px" alt="flower">
+        <img src="flower2.jpg" height="400px width=" 400px" alt="flower">
+        <img src="flower3.jpg" height="400px width=" 400px" alt="flower">
+        <img src="flower4.jpg" height="400px width=" 400px" alt="flower">
+        <img src="flower2.jpg" height="400px width=" 400px" alt="flower">
+      </div>
+      <div>
+        <h3>Stars</h3>
+        <img src="Stars1.jpg" height="400px width=" 400px" alt="Stars">
+        <img src="Stars2.jpg" height="400px width=" 400px" alt="Stars">
+       <img src="Stars3.jpg" height="400px width=" 400px" alt="Stars">
+      </div>
+      <div>
+        <h3>dress</h3>
+        <img src="dress1.jpg" height="400px width=" 400px" alt="dress">
+         <img src="dress2.jpg" height="400px width=" 400px" alt="dress">
+          <img src="dress3.jpg" height="400px width=" 400px" alt="dress">
+      </div>
+      <div>
+        <h3>blouse</h3>
+        <img src="blouse1.jpg" height="400px width=" 400px" alt="blouse">
+         <img src="blouse2.jpg" height="400px width=" 400px" alt="blouse">
+          <img src="blouse3.jpg" height="400px width=" 400px" alt="blouse">
+          <img src="blouse4.jpg" height="400px width=" 400px" alt="blouse">
+      </div>
+       <h3>Bags</h3>
+        <img src="bag1.jpg" height="400px width=" 400px" alt="Bags">
+         <img src="bag2.jpg" height="400px width=" 400px" alt="Bags">
+          <img src="bag3.jpg" height="400px width=" 400px" alt="Bags">
+      </div>
+      </div>
+       <h3>skirt</h3>
+        <img src="skirt1.jpg" height="400px width=" 400px" alt="skirt">
+         <img src="skirt2.jpg" height="400px width=" 400px" alt="skirt">
+         
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>

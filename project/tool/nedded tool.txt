@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1256">
+<title>Needed tools</title>
+</head>
+<body>
+
+	<table border="2">
+		<tr>
+			<td>Yarns(wool)</td>
+			<td>crochet hooks</td>
+			<td>Stitch Markers</td>
+			<td>Scissors</td>
+			<td>meter</td>
+			<td>Yarn Needles</td>
+			
+		</tr>
+		<tr>
+			<td><img src="wool.jpg"/></td>
+			<td><img src="hooks.jpg"/></td>
+			<td><img src="Stitch Markers.jpg"/></td>
+			<td><img src="scissors.jpg"/></td>
+			<td><img src="meter.jpg"/></td>
+			<td><img src="yarn Needles.jpg"/></td>
+			
+		</tr>
+	</table>
+</body>
+</html>
+
+
