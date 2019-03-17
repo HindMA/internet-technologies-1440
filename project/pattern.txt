@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="windows-1256">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Abel" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Syncopate" rel="stylesheet">
+
+<title>pattern</title>
+</head>
+<style>
+body{
+background-image: url('background.png');
+}
+st{
+font-family: 'Syncopate', sans-serif;
+font-size:50px;
+}
+div.c {
+  text-indent: 3%;
+}
+</style>
+
+<body>
+<div class="c">
+    <h1class=" align="left"> <font color="#800033" ><b><st>Simple Pattern</st></b></h1>
+    <p>To help you while you work</p>
+  </div>
+
+<br>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <ul class="nav navbar-nav">
+      <li><a href="home.html">Home</a></li>
+      <li><a href="Types of stitches.html">Types of stitches</a></li>
+      <li class="active" ><a href="pattern.html">Pattern</a></li>
+      <li><a href="nedded tool.html">Needed tools</a></li>
+      <li><a href="Our Work.html">Our Work</a></li>
+      <li><a href="contact us.html">Contact us</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div>
+    <div>
+      <div align="center">
+        <h2>flower</h2>
+        <img src="pattern/flower1.jpg" height="400px width=" 400px" alt="flower">
+        <img src="pattern/flower2.jpg" height="400px width=" 400px" alt="flower">
+        <img src="pattern/flower3.jpg" height="400px width=" 400px" alt="flower">
+        <img src="pattern/flower4.jpg" height="400px width=" 400px" alt="flower">
+        <img src="pattern/flower2.jpg" height="400px width=" 400px" alt="flower">
+      </div>
+      <div align="center">
+        <h2>Stars</h2>
+        <img src="pattern/Stars1.jpg" height="400px width=" 400px" alt="Stars">
+        <img src="pattern/Stars2.jpg" height="400px width=" 400px" alt="Stars">
+       <img src="pattern/Stars3.jpg" height="400px width=" 400px" alt="Stars">
+      </div>
+      <div align="center">
+        <h2>dress</h2>
+        <img src="pattern/dress1.jpg" height="400px width=" 400px" alt="dress">
+         <img src="pattern/dress2.jpg" height="400px width=" 400px" alt="dress">
+          <img src="pattern/dress3.jpg" height="400px width=" 400px" alt="dress">
+      </div>
+      <div align="center">
+        <h2>blouse</h2>
+        <img src="pattern/blouse1.jpg" height="400px width=" 400px" alt="blouse">
+         <img src="pattern/blouse2.jpg" height="400px width=" 400px" alt="blouse">
+          <img src="pattern/blouse3.jpg" height="400px width=" 400px" alt="blouse">
+          <img src="pattern/blouse4.jpg" height="400px width=" 400px" alt="blouse">
+	</div>      
+	<\div align="center">
+       <h2>Bags</h2>
+        <img src="pattern/bag1.jpg" height="400px width=" 400px" alt="Bags">
+         <img src="pattern/bag2.jpg" height="400px width=" 400px" alt="Bags">
+          <img src="pattern/bag3.jpg" height="400px width=" 400px" alt="Bags">
+      </div>
+      <div align="center">
+       <h2>skirt</h2>
+        <img src="pattern/skirt1.jpg" height="400px width=" 400px" alt="skirt">
+         <img src="pattern/skirt2.jpg" height="400px width=" 400px" alt="skirt">
+         
+      </div>
+    </div>
+  </div>
+
+
+</body>
+</html>
